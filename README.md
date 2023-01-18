@@ -25,7 +25,7 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ```
 ## Output:
-![output](![Solving System of Linear Equation](https://user-images.githubusercontent.com/120884552/213120529-c6bfe11c-2153-4fb7-af1d-d292ac578cc7.png)
+[Solving System of Linear Equation](https://user-images.githubusercontent.com/120884552/213120529-c6bfe11c-2153-4fb7-af1d-d292ac578cc7.png)
 
 
 
