@@ -17,7 +17,7 @@ End the program
 ## Program:
 #Program to find the solution for the given linear equations.
 #Developed by: GANESH R
-#RegisterNumber:22009090
+#RegisterNumber:212222240029
 import numpy as np
 A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])
@@ -25,8 +25,7 @@ sol=np.linalg.solve(A,B)
 print(sol)
 ```
 ## Output:
-![Solving System of Linear Equation](https://user-images.githubusercontent.com/120884552/213120529-c6bfe11c-2153-4fb7-af1d-d292ac578cc7.png)
-
+![output](./MA1.png)
 
 
 ## Result: 
